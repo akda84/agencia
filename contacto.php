@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Turismo W5-Contactos</title>
+<title>Turismo W5-Contac</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Link de para los css del template de W3 y style -->
